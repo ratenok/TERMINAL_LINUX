@@ -4,7 +4,7 @@
 |1) Посмотреть где я | pwd|
 |2) Создать папку |mkdir homework|
 |3) Зайти в папку |cd homework|
-|4) Создать 3 папки| cd hwk\_1 hmk\_2 hwk\_3|
+|4) Создать 3 папки| mkdir hwk\_1 hmk\_2 hwk\_3|
 |5) Зайти в любую папку | cd homework_1|
 |6) Создать 5 файлов (3 txt, 2 json)| touch hw_1.txt hw_2.txt hw_3.txt hw_4.json hw_5.json|
 |7) Создать 3 папки| mkdir folder1 folder2 folder3|
